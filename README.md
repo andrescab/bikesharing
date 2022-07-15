@@ -4,24 +4,30 @@ The link to dashboard "https://public.tableau.com/app/profile/andres2863/viz/NYC
 The purpose of this project is to present a set of visualization that shows insights about citibike program in New york that helps and clarify the decision of investing a citibike program in Des Moines.
 ## Results
 ![sadas](i1.png)
+
 This represents the checkout time for Users, which the highest number of bikes are leaving between the 5 and 6 minute
 
 ![dasd](i5.png)
+
 These pie charts represents the breakdown by user and gender.
 
 ![sad](i2.png)
+
 The second picture shows the checkout times by gender, the male people, who has the highest number of bikes, do the checkout between the 5 and 6 minutes. The female people get over their rides between the 5 and 7 minute
 
 
 ![dasd](i3.png) ![l1](l1.png)
+
 This nex picture allows to see the busiest time that peoples start trips by weeday and hour. The busiest time seems to be between 5pm and 6pm on Thursdays
 
 
 ![asd](i7.png) ![l3](l3.png)
+
 The next picture is similar to the last picture but this one add gender. The less busiest time seems to be
 between 10am and 3pm on Mondays and Tuesdays
 
 ![asd4](i4.png) ![l2](l2.png)
+
 In this picture, the male people who are suscriber tends to have trips regularly almost all the week. Followed up by Female people who are suscribers
 
 ![ivx6](i6.png)
