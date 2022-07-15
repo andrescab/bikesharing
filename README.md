@@ -1,8 +1,8 @@
 # bikesharing
 The link to dashboard "https://public.tableau.com/app/profile/andres2863/viz/NYCBikeAnalysis_16579141305940/Story1?publish=yes"
-##Overview of the analysis
+## Overview of the analysis
 The purpose of this project is to present a set of visualization that shows insights about citibike program in New york that helps and clarify the decision of investing a citibike program in Des Moines.
-##Results
+## Results
 ![sadas](i1.png)
 This represents the checkout time for Users, which the highest number of bikes are leaving between the 5 and 6 minute
 
@@ -36,6 +36,6 @@ The last picture represents the starting and ending locations, where darker circ
 
 
 
-##Summary
+## Summary
 
 In conclusion, the greates number of bikes used for trips are for less than 20 minutesand there is significant decreasing of number of bikes used along more minutes. There are more suscribers than customers and male people do more rides than female and unknown. In general, the busiest time are from 5pm to 7pm on Mondays, Tuesdays, Thursdays and Fridays. Finally, start and ending locations are likely to be closed to dowtown and Central Park.
