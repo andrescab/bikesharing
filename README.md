@@ -1,5 +1,5 @@
 # bikesharing
-[Link to dashboard]([https://pages.github.com/](https://public.tableau.com/views/NYCBikeAnalysis_16579141305940/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
+[Link to dashboard](https://public.tableau.com/app/profile/andres2863/viz/NYCBikeAnalysis_16579141305940/Story1?publish=yes).
 ## Overview of the analysis
 The purpose of this project is to present a set of visualization that shows insights about citibike program in New york that helps and clarify the decision of investing a citibike program in Des Moines.
 ## Results
